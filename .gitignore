@@ -1,0 +1,7 @@
+/venv/
+.idea
+.ipynb_checkpoints
+book_analysis_regex_1.ipynb
+book_analysis_regex_2.ipynb
+book_analysis_sentiment.ipynb
+miracle_in_the_andes.txt
